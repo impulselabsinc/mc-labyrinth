@@ -7,7 +7,7 @@ https://github.com/batkinson/minecraft-labyrinth
 
 Requires MCPI to be installed
 
-(Nikhil@Impulse Labs)I disagree with Brent's assessment below about the API. I believe that the API offers ample opportunity to learn through reverse engineering this code, for example. This is possibly amongst the nicest code written for the Minecraft Pi edition. 
+(Nikhil@Impulse Labs) - I disagree with Brent's assessment below about the API. I believe that the API offers ample opportunity to learn through reverse engineering this code, for example. This is possibly amongst the nicest code written for the Minecraft Pi edition. 
 ___
 
 A program that uses the minecraft pi edition python api to build a game where
