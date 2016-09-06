@@ -5,7 +5,6 @@
 From Brent Atkinson's code 
 https://github.com/batkinson/minecraft-labyrinth
 Requires MCPI to be installed
-
 I disagree with his assessment below about the API. I believe that the API offers ample opportunity to learn through reverse engineering this code, for example. This is possibly the nicest code written for the Minecraft Pi edition. 
 -------------------------------------------
 
