@@ -1,13 +1,15 @@
 # Minecraft Labyrinth
-
-------------------------------------------
+______
 (A note from Nikhil@Impulse Labs)
-From Brent Atkinson's code 
-https://github.com/batkinson/minecraft-labyrinth
-Requires MCPI to be installed
--------------------------------------------
-I disagree with his assessment below about the API. I believe that the API offers ample opportunity to learn through reverse engineering this code, for example. This is possibly the nicest code written for the Minecraft Pi edition. 
 
+From Brent Atkinson's code 
+
+https://github.com/batkinson/minecraft-labyrinth
+
+Requires MCPI to be installed
+
+I disagree with his assessment below about the API. I believe that the API offers ample opportunity to learn through reverse engineering this code, for example. This is possibly the nicest code written for the Minecraft Pi edition. 
+___
 
 A program that uses the minecraft pi edition python api to build a game where
 the player has to navigate a randomly generated labyrinth to locate treasure
